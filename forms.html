@@ -17,22 +17,16 @@
             <p>Este formulario nos ayudará a mejorar nuestra pagina web</p>
 
             <form name="datos y opinion">
-                <label>
-                    Introduce tu nombre
-                </label>
-                <input type="text" alt="Nombre"> 
-                <label>
-                    Introduce tu edad
-                </label>
-                <input type="number" alt="Edad">  Edad<br>
-                <label>
-                    Danos tu opinion de la pagina web
-                </label>
-                <input type="text" alt="Opinion de la página web"> 
-                <label>
-                    Computar (No hace nada)
-                </label>
-                <input type="button" value="Enviar formulario" alt="Este boton no hace nada">
+                <label for="name">Introduce tu nombre:</label>
+                <input id="name" type="text"/>
+
+                <label for="age">Introduce tu edad</label>
+                <input id="age" type="text"/>
+
+                <label for="opinion">Dinos tu opinion de la web</label>
+                <input id="opinion" type="text"/> 
+
+                <input type="submit" value="Enviar formulario">
             </form>
         </main>
 
