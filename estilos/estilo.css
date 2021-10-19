@@ -26,7 +26,7 @@ h3{
     background-color: #ECE8D4;
     text-align: left;
     font-style: italic;
-    font-size: small;
+    font-size: medium;
 }
 
 /*Especificidad: 001*/
@@ -71,3 +71,6 @@ footer a{
     margin: 1em;
 }
 
+form input{
+    margin: 1.5em;
+}
