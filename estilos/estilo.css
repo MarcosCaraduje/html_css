@@ -2,6 +2,7 @@
 body{
     font-family: sans-serif;
     color: black;
+    font-size: 2em;
     background-color: #ECE8D4;
 }
 
@@ -33,7 +34,6 @@ h3{
 p{
     color: black;
     background-color: #ECE8D4;
-    font-size: 14pt;
 }
 
 /*Especificidad: 001*/
@@ -71,6 +71,7 @@ footer a{
     margin: 1em;
 }
 
+/*Especificidad: 002*/
 form input{
     margin: 1.5em;
 }
