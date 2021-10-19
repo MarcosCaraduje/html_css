@@ -1,0 +1,53 @@
+/*Especificidad: 001*/
+body{
+    font-family: sans-serif;
+    color: black;
+    background-color: #ECE8D4;
+}
+
+/*Especificidad: 001*/
+h1{
+    color: white;
+    background-color: #9932cc;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/*Especificidad: 001*/
+h2{
+    color: white;
+    background-color: #9932cc;
+    text-align: center;
+}
+
+/*Especificidad: 001*/
+p{
+    color: black;
+    background-color: #ECE8D4;
+    font-size: medium;
+}
+
+/*Especificidad: 001*/
+dt{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*Especificidad: 001*/
+dd{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Especificidad: 001*/
+table{
+    color: black;
+    background-color: #ECE8D4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+/*Especificidad: 001*/
+nav{
+    font-style: italic;
+}
