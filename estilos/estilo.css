@@ -20,6 +20,14 @@ h2{
     text-align: center;
 }
 
+h3{
+    color:black;
+    background-color: #ECE8D4;
+    text-align: left;
+    font-style: italic;
+    font-size: small;
+}
+
 /*Especificidad: 001*/
 p{
     color: black;
