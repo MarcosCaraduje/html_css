@@ -1,5 +1,5 @@
 /*Especificidad: 001*/
-article{
+main{
     display: grid;
     grid-template-columns: 
         auto
