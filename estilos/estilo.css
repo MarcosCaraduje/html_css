@@ -61,4 +61,13 @@ nav{
     font-style: italic;
 }
 
+/*Especificidad: 001*/
+footer{
+    text-transform: lowercase;
+}
+
+/*Especificidad: 002*/
+footer a{
+    margin: 1em;
+}
 
